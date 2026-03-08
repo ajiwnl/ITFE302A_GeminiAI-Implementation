@@ -1,4 +1,5 @@
-# Gemini AI Project
+# Gemini AI Project ITFE302A_GeminiAI-Implementation
+Sample implementation of Google Gemini AI for ITFE302A, focusing on API integration, backend logic, and practical use cases for AI-driven applications.
 
 This project uses **FastAPI** to provide endpoints for an AI Chatbot and Data Analytics, integrated with **Google Gemini-1.5-Flash**.
 
